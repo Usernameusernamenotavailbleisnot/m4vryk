@@ -1,0 +1,33 @@
+{
+    "rpcUrl": "https://atlasnet.rpc.mavryk.network",
+    "apiUrl": "https://atlasnet.api.mavryk.network/v1",
+    "explorerUrl": "https://nexus.mavryk.org/operation",
+    "poolContractAddress": "KT1PptWQrc5WR868GhFoxnFasYSkC5JstkWS",
+    "usdtTokenAddress": "KT1StUZzJ34MhSNjkQMSyvZVrR9ppkHMFdFf",
+    "liquidity": {
+      "add": {
+        "minAmount": 0.2,
+        "maxAmount": 0.4,
+        "iterations": 2
+      },
+      "remove": {
+        "minAmount": 0.01,
+        "maxAmount": 0.04,
+        "iterations": 2
+      }
+    },
+    "delegation": {
+      "iterations": 3
+    },
+    "retryOptions": {
+      "retries": 5,
+      "minTimeout": 1000,
+      "maxTimeout": 15000,
+      "factor": 2
+    },
+    "delay": {
+      "betweenOperations": 5000,
+      "betweenWallets": 10000,
+      "afterCompletion": 90000000
+    }
+  }
