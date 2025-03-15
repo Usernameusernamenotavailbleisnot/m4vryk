@@ -2,8 +2,8 @@
     "rpcUrl": "https://atlasnet.rpc.mavryk.network",
     "apiUrl": "https://atlasnet.api.mavryk.network/v1",
     "explorerUrl": "https://nexus.mavryk.org/operation",
-    "poolContractAddress": "KT1PptWQrc5WR868GhFoxnFasYSkC5JstkWS",
-    "usdtTokenAddress": "KT1StUZzJ34MhSNjkQMSyvZVrR9ppkHMFdFf",
+    "poolContractAddress": "KT1K4mBpjqXesVqBqtzmf69BNnPnimk2wo4x",
+    "usdtTokenAddress": "KT1D7ZQBhwxkMgZThqctYtMXigFvJRZL4eSy",
     "liquidity": {
       "add": {
         "minAmount": 0.2,
