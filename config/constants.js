@@ -3,10 +3,9 @@ module.exports = {
     // Available validators
     VALIDATORS: [
       { id: 1, address: 'mv1V4h45W3p4e1sjSBvRkK2uYbvkTnSuHg8g' },
-      { id: 2, address: 'mv1DeXVziJ3ygDBFEteUi9jrpWudPUhSBHgP' },
-      { id: 3, address: 'mv1RjfC3xV7Aoshdq66GLNDAH9DRzWuRNFnh' },
-      { id: 4, address: 'mv1DrGAS49DGQsLsPDo7ZLhpH7evt7BQ4ytn' },
-      { id: 5, address: 'mv1NVfdsfc7LHTyHE8Bm7TokYSKHwiQg1ToW' }
+      { id: 2, address: 'mv1KY9HYiBcxS69SiffUvsEfKkhfTwmCCPgW' },
+      { id: 3, address: 'mv1Wv89o61199rZ5NMBzyFGzfddxvYrYS3xi' },
+      { id: 4, address: 'mv1KryptaWtsDi7EozpfoBjKbKbf4zgMvpj8' }
     ],
     
     // Error messages
